@@ -1,0 +1,8 @@
+{
+  "name": "SenseBridge Exploration",
+  "description": "A multimodal exploration intelligence system for interpreting unfamiliar environments using camera, audio, and sensor data.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
